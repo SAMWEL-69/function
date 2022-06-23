@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\c# function\obj\Debug\net6.0\c# function.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\c# function\obj\Debug\net6.0\c# function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\c# function\obj\Debug\net6.0\c# function.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\c# function\obj\Debug\net6.0\c# function.AssemblyInfo.cs
+C:\Users\DELL\Desktop\c# function\obj\Debug\net6.0\c# function.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\c# function\bin\Debug\net6.0\c# function.exe
+C:\Users\DELL\Desktop\c# function\bin\Debug\net6.0\c# function.deps.json
+C:\Users\DELL\Desktop\c# function\bin\Debug\net6.0\c# function.runtimeconfig.json
+C:\Users\DELL\Desktop\c# function\bin\Debug\net6.0\c# function.dll
+C:\Users\DELL\Desktop\c# function\bin\Debug\net6.0\c# function.pdb
+C:\Users\DELL\Desktop\c# function\obj\Debug\net6.0\c# function.dll
+C:\Users\DELL\Desktop\c# function\obj\Debug\net6.0\refint\c# function.dll
+C:\Users\DELL\Desktop\c# function\obj\Debug\net6.0\c# function.pdb
+C:\Users\DELL\Desktop\c# function\obj\Debug\net6.0\c# function.genruntimeconfig.cache
+C:\Users\DELL\Desktop\c# function\obj\Debug\net6.0\ref\c# function.dll
